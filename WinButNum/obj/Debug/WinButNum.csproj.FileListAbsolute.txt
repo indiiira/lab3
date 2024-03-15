@@ -1,0 +1,9 @@
+C:\Users\Индира\source\repos\WinTimer1\WinButNum\bin\Debug\WinButNum.exe.config
+C:\Users\Индира\source\repos\WinTimer1\WinButNum\bin\Debug\WinButNum.exe
+C:\Users\Индира\source\repos\WinTimer1\WinButNum\bin\Debug\WinButNum.pdb
+C:\Users\Индира\source\repos\WinTimer1\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+C:\Users\Индира\source\repos\WinTimer1\WinButNum\obj\Debug\WinButNum.csproj.GenerateResource.cache
+C:\Users\Индира\source\repos\WinTimer1\WinButNum\obj\Debug\WinButNum.csproj.CoreCompileInputs.cache
+C:\Users\Индира\source\repos\WinTimer1\WinButNum\obj\Debug\WinButNum.exe
+C:\Users\Индира\source\repos\WinTimer1\WinButNum\obj\Debug\WinButNum.pdb
+C:\Users\Индира\source\repos\WinTimer1\WinButNum\obj\Debug\WinButNum.Form1.resources

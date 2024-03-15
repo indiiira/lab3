@@ -1,0 +1,11 @@
+C:\Users\Индира\source\repos\WinTimer1\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Индира\source\repos\WinTimer1\Lab3\bin\Debug\Lab3.exe
+C:\Users\Индира\source\repos\WinTimer1\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Индира\source\repos\WinTimer1\Lab3\obj\Debug\WinTimer1.csproj.AssemblyReference.cache
+C:\Users\Индира\source\repos\WinTimer1\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Индира\source\repos\WinTimer1\Lab3\obj\Debug\Lab3.UserControlTimer.resources
+C:\Users\Индира\source\repos\WinTimer1\Lab3\obj\Debug\WinTimer1.csproj.GenerateResource.cache
+C:\Users\Индира\source\repos\WinTimer1\Lab3\obj\Debug\WinTimer1.csproj.CoreCompileInputs.cache
+C:\Users\Индира\source\repos\WinTimer1\Lab3\obj\Debug\Lab3.exe
+C:\Users\Индира\source\repos\WinTimer1\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Индира\source\repos\WinTimer1\Lab3\obj\Debug\Lab3.Form1.resources
